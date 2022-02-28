@@ -1,0 +1,2055 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The names of all the Dukes, Marquesses, Earls, Viscounts, &amp; Barons, dead or living, that have been or are in England, Scotland, &amp; Ireland, in and since the raign of Queen Elizabeth, to this yeare, 1653. By John Taylor</title>
+            <author>Taylor, John, 1580-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1653</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 31 KB of XML-encoded text transcribed from 15 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95561</idno>
+            <idno type="STC">Wing T485</idno>
+            <idno type="STC">Thomason E1463_1</idno>
+            <idno type="STC">ESTC R209612</idno>
+            <idno type="EEBO-CITATION">99868479</idno>
+            <idno type="PROQUEST">99868479</idno>
+            <idno type="VID">169987</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95561)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169987)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 187:E1463[1])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The names of all the Dukes, Marquesses, Earls, Viscounts, &amp; Barons, dead or living, that have been or are in England, Scotland, &amp; Ireland, in and since the raign of Queen Elizabeth, to this yeare, 1653. By John Taylor</title>
+                  <author>Taylor, John, 1580-1653.</author>
+               </titleStmt>
+               <extent>23 (i.e., 27), [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year, 1653.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The first leaf is blank.</note>
+                  <note>Numerous errors in pagination.</note>
+                  <note>Annotation on Thomason copy: "Jan. 26.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Nobility --  Great Britain --  History --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169987:1" rendition="simple:additions"/>
+            <p>THE NAMES OF ALL THE DUKES, MARQUESSES, EARLS, VISCOUNTS, &amp; BARONS, Dead or Living, that have been or are in <hi>England, Scotland,</hi> &amp; <hi>Ireland,</hi> in and ſince the Raign of Queen <hi>Elizabeth,</hi> to this Yeare, 1653.</p>
+            <p>By <hi>JOHN TAYLOR.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1653.</p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:169987:2"/>
+            <head>The Right Honorable,</head>
+            <pb n="5" facs="tcp:169987:2"/>
+            <head type="sub">
+               <hi>The Names of all the Dukes, Marqueſſes, Earles, Viſcounts, and Barons in</hi> ENGLAND.</head>
+            <list>
+               <head>DUKES.</head>
+               <item>THe High and Mighty Prince, <hi>George Villiers,</hi> Duke of <hi>Buckingham.</hi>
+               </item>
+               <item>The High and Mighty Prince, <hi>James Stuart,</hi> Duke of <hi>Richmond</hi> and <hi>Lenox.</hi>
+               </item>
+            </list>
+            <list>
+               <head>MARQUESSES.</head>
+               <item>
+                  <hi>IOhn Pawlet,</hi> Marqueſs of <hi>Wincheſter.</hi>
+               </item>
+               <item>
+                  <hi>William Seymour,</hi> Marqueſs of <hi>Hartford.</hi>
+               </item>
+            </list>
+            <p>
+               <table>
+                  <head>EARLS.</head>
+                  <row>
+                     <cell rows="56">The Right Honorable, </cell>
+                     <cell>
+                        <hi>HEnry Howard,</hi> Earl of <hi>Arundel</hi> &amp; <hi>Surrey.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Awbery Vere,</hi> Earl of <hi>Oxford.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Algernoon Percy,</hi> Earl of <hi>Northumberland.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Talbot,</hi> Earl of <hi>Shrewsbury.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Anthony Grey,</hi> Earl of <hi>Kent.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Charles Stanley,</hi> Earl of <hi>Derby.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry Sommerſet,</hi> Earl of <hi>Worceſter.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Mauners,</hi> Earl of <hi>Rutland.</hi>
+                     </cell>
+                  </row>
+                  <pb n="6" facs="tcp:169987:3"/>
+                  <row>
+                     <cell>
+                        <hi>Henry Haſtings,</hi> Earl of <hi>Huntingdon.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry Bourcher,</hi> Earl of <hi>Bath.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Wriotheſley,</hi> Earl of <hi>Southampton.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Ruſſel,</hi> Earl of <hi>Bedford.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Philip Herbert,</hi> Earl of <hi>Pembrook</hi> and <hi>Mount<g ref="char:EOLhyphen"/>gomery.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Theophilus Fines,</hi> Earl of <hi>Lincoln.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Charles Howard,</hi> Earl of <hi>Nottingham.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Howard,</hi> Earl of <hi>Suffolk.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edward Sackvile,</hi> Earl of <hi>Dorſet.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Cecil,</hi> Earl of <hi>Salisbury.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>David Cecil,</hi> Earl of <hi>Exeter.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Egerton,</hi> Earl of <hi>Bridgewater.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Sidney,</hi> Earl of <hi>Leiceſter.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Spencer Compton,</hi> Earl of <hi>Northampton.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Rich,</hi> Earl of <hi>Warwick.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Cavendiſh,</hi> Earl of <hi>Devonſhire.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Hay,</hi> Earl of <hi>Carlile.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Fielding,</hi> Earl of <hi>Denbigh.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Digby,</hi> Earl of <hi>Briſtow.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lionel Cranfield,</hi> Earl of <hi>Middleſex.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Charles Villiers,</hi> Earl of <hi>Angleſey.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry Rich,</hi> Earl of <hi>Holland.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Hollis,</hi> Earl of <hi>Clare.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Oliver Saint-John,</hi> Earl of <hi>Bullingbrook.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Mildmay Fane,</hi> Earl of <hi>Weſtmerland.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Nicholas Knowls,</hi> Earl of <hi>Banbury.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edward Mountague,</hi> Earl of <hi>Mancheſter.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Howard,</hi> Earl of <hi>Barkſhire.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Wentworth,</hi> Earl of <hi>Cleveland.</hi>
+                     </cell>
+                  </row>
+                  <pb n="7" facs="tcp:169987:3"/>
+                  <row>
+                     <cell>
+                        <hi>Edmund Sheffield,</hi> Earl of <hi>Mulgrave.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry Cary,</hi> Earl of <hi>Monmouth.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Ley,</hi> Earl of <hi>Marlborow.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Savage,</hi> Earl of <hi>Rivers.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Mountague Berty,</hi> Earl of <hi>Lindſey,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Cavendiſh,</hi> Earl of <hi>Newcaſtle.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry Cary,</hi> Earl of <hi>Dover.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Mordant,</hi> Earl of <hi>Peterborough.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry Grey,</hi> Earl of <hi>Stamford.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henage Finch,</hi> Earl of <hi>Winchelſey.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Perrepoint,</hi> Earl of <hi>Kingſtone</hi> upon <hi>Hull.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Dormer,</hi> Earl of <hi>Carnarvan.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Mount Joy Blunt,</hi> Earl of <hi>Newport,</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Philip Stanhop,</hi> Earl of <hi>Cheſterfield.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Tufton,</hi> Earl of <hi>Thanet.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>
+                           <g ref="char:V">Ʋ</g>lick Burgh,</hi> Earl of St. <hi>Albones.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Jerome Weſton,</hi> Earl of <hi>Portland.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Elizabeth Savage,</hi> Counteſs of <hi>Rivers.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Wentworth,</hi> Earl of <hi>Strafford.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <list>
+               <head>VISCOUNTS</head>
+               <item>
+                  <hi>WAlter Devoreux,</hi> Viſcount <hi>Hereford.</hi>
+               </item>
+               <item>
+                  <hi>Francis Brown,</hi> Viſcount <hi>Mountague.</hi>
+               </item>
+               <item>
+                  <hi>John Villiers,</hi> Viſcount <hi>Purbeck.</hi>
+               </item>
+               <item>
+                  <hi>Richard Fines,</hi> Viſcount and Baron <hi>Say</hi> and <hi>Seale.</hi>
+               </item>
+               <item>
+                  <hi>Edward Conway,</hi> Viſcount <hi>Conway.</hi>
+               </item>
+               <item>
+                  <hi>Edward Noel,</hi> Viſcount <hi>Cambden.</hi>
+               </item>
+               <pb n="8" facs="tcp:169987:4"/>
+               <item>
+                  <hi>William Howard,</hi> Viſcount and Baron of <hi>Staf<g ref="char:EOLhyphen"/>ford.</hi>
+               </item>
+            </list>
+            <p>
+               <table>
+                  <head>BARONS.</head>
+                  <row>
+                     <cell rows="56">The Right Honorable, </cell>
+                     <cell>
+                        <hi>IOhn Nevil,</hi> Lord of <hi>Abbergany.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Tutchet,</hi> Lord <hi>Audley.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Charles Weſt,</hi> Lord <hi>Delawar.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>George Berkley,</hi> Lord <hi>Berkley.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry Parker,</hi> Lord <hi>Morley</hi> and <hi>Mounteagle.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Sands,</hi> Lord <hi>Sands</hi> of the <hi>Vine</hi> in <hi>Hampſhire.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Francis Leonard,</hi> Lord <hi>Dacre.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Charles Longevile,</hi> Lord <hi>Grey.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Conniers Darcy,</hi> Lord <hi>Darcy,</hi> and <hi>Conniers.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edward Sutton,</hi> Lord <hi>Dudley.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edward Stourton,</hi> Lord <hi>Stourton</hi> of <hi>Stourton.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edward Vaulx,</hi> Lord <hi>Vaulx</hi> of <hi>Harowdon.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Windſor,</hi> Lord <hi>Windſor</hi> of <hi>Bradenham.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Wentworth,</hi> Lord <hi>Wentworth</hi> of <hi>Nettle<g ref="char:EOLhyphen"/>ſted.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Cromwel,</hi> Lord <hi>Cromwel</hi> of <hi>Oakham.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Eure,</hi> Lord <hi>Eure</hi> of <hi>Witton.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Philip Wharton,</hi> Lord <hi>Wharton</hi> of <hi>Wharton.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Rich,</hi> Lord <hi>Rich</hi> of <hi>Lees.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Willoughby,</hi> Lord <hi>Willoughby</hi> of <hi>Parham.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Paget,</hi> Lord <hi>Paget</hi> of <hi>Beudeſert.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dudley North,</hi> Lord, <hi>North</hi> of <hi>Chartley.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Bruges,</hi> Lord <hi>Chaundos</hi> of <hi>Sudley.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Cary,</hi> Lord <hi>Hunſden.</hi>
+                     </cell>
+                  </row>
+                  <pb n="9" facs="tcp:169987:4"/>
+                  <row>
+                     <cell>
+                        <hi>William Peter,</hi> Lord <hi>Peter</hi> of <hi>Writtle</hi> in <hi>Eſſex.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dutton Gerrard,</hi> Lord <hi>Gerrard</hi> of <hi>Gerrards Brumley.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Spencer,</hi> Lord <hi>Spencer</hi> of <hi>Warmlington.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Charles Stanhop,</hi> Lord <hi>Stanhop</hi> of <hi>Narington.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Arundel,</hi> Lord <hi>Arundel</hi> of <hi>Wardour.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Chriſtopher Roper,</hi> Lord <hi>Tenham</hi> of <hi>Tenham</hi> in <hi>Kent.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>George Digby,</hi> Lord <hi>Digby</hi> of <hi>Sherburn.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Grevile,</hi> Lord <hi>Brook</hi> of <hi>Beauchamps</hi> Court.</cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Edward Mountague,</hi> Knight, was created Lord <hi>Mountague</hi> of <hi>Boughten.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Charles Howard,</hi> Lord <hi>Howard</hi> of <hi>Charlton.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>William Grey</hi> of <hi>Northumberland,</hi> Baronet, was created Lord <hi>Grey</hi> of <hi>Wark.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Francis Leak,</hi> Knight and Baronet, was created Lord <hi>Daincourt.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Roberts,</hi> Lord <hi>Roberts</hi> of <hi>Truro.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>William Craven,</hi> Knight, created Lord <hi>Craven</hi> of <hi>Hempſteed-Marſhal.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Thomas Bellaſis,</hi> Knight and Baronet, cre<g ref="char:EOLhyphen"/>ated Lord <hi>Faulconbridge</hi> of <hi>Yaren.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Lovelace,</hi> Lord <hi>Lovelace</hi> of <hi>Hurley.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Pawlet,</hi> Eſquire, was created Lord <hi>Pawlet</hi> of <hi>Hinton Saint George.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Thomas Brudnel,</hi> Knight and Baronet, was created Lord <hi>Brudnel</hi> of <hi>Stouton.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Maynard,</hi> Lord <hi>Maynard</hi> of <hi>Eſtains.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Coventry,</hi> Lord <hi>Coventry</hi> of <hi>Alsborow.</hi>
+                     </cell>
+                  </row>
+                  <pb n="10" facs="tcp:169987:5"/>
+                  <row>
+                     <cell>Sir <hi>Edward Howard,</hi> Knight, was created Lord <hi>Howard</hi> of <hi>Eſcrick.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>George Goring,</hi> was created Lord <hi>Goring</hi> of <hi>Hurſt Perrepoint.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Warwick Mohun,</hi> Lord <hi>Mohun</hi> of <hi>Oakhampton.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Savil,</hi> Lord <hi>Savil</hi> of <hi>Pontefract.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>John Bottiler,</hi> Knight and Baronet, was created Lord <hi>Bottiler</hi> of <hi>Brampfield.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Francis Leigh,</hi> Knight and Baronet, was created Lord <hi>Dunſmore.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>William Herbert,</hi> Knight of the <hi>Bath,</hi> was created Lord <hi>Powys</hi> of <hi>Powys.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Edward Herbert,</hi> Knight of the <hi>Bath,</hi> and Lord of <hi>Caſtle Iſland</hi> in <hi>Ireland,</hi> was crea<g ref="char:EOLhyphen"/>ted Lord <hi>Herbert</hi> of <hi>Cherbury.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Francis Cottington,</hi> Knight and Baronet, was created Lord <hi>Cottington</hi> of <hi>Hanworth.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>John Finch,</hi> Knight, was created Lord <hi>Finch</hi> of <hi>Fordwitch</hi> in <hi>Kent.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Francis Seymour,</hi> Knight, was created Lord <hi>Seymour</hi> of <hi>Trowbridge.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Arthur Capel,</hi> Eſquire, was created Lord <hi>Capel</hi> of <hi>Hadham.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Bruce,</hi> Earl of <hi>Elgm</hi> in <hi>Scotland,</hi> was created Baron <hi>Bruce</hi> of <hi>Whorelton.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div type="part">
+            <pb n="11" facs="tcp:169987:5"/>
+            <head>
+               <hi>The Names of all the Dukes, Marqueſſes, Earls, Viſcounts, and Ba<g ref="char:EOLhyphen"/>rons in</hi> SCOTLAND.</head>
+            <list>
+               <head>DUKES.</head>
+               <item>THe High and Mighty Prince, <hi>James Stuart,</hi> Duke of <hi>Lenox</hi> and <hi>Richmond.</hi>
+               </item>
+            </list>
+            <list>
+               <head>MARQUESSES.</head>
+               <item>
+                  <hi>GEorge Gourdon,</hi> Marqueſs of <hi>Huntley.</hi>
+               </item>
+               <item>
+                  <hi>William Douglas,</hi> Marqueſs <hi>Douglas.</hi>
+               </item>
+               <item>
+                  <hi>Archibald Campbel,</hi> Marqueſs of <hi>Argile.</hi>
+               </item>
+            </list>
+            <p>
+               <table>
+                  <head>EARLS.</head>
+                  <row>
+                     <cell rows="53">The Right Honorable, </cell>
+                     <cell>
+                        <hi>LOdowick Lindſey</hi> Earl of <hi>Crawford.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Francis Hay,</hi> Earl of <hi>Errel.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Keeth,</hi> Earl of <hi>Marſhal.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Gourdon,</hi> Earl of <hi>Southerland.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Erskin,</hi> Earl of <hi>Mar</hi> and <hi>Garrioch.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Graham,</hi> Earl of <hi>Airth.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Leſley,</hi> Earl of <hi>Rotheſs.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Douglas,</hi> Earl of <hi>Morton.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Earskin,</hi> Earl of <hi>Buchan.</hi>
+                     </cell>
+                  </row>
+                  <pb n="12" facs="tcp:169987:6"/>
+                  <row>
+                     <cell>
+                        <hi>Alexander Mongomery,</hi> Earl of <hi>Eglington.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Graham,</hi> Earl of <hi>Montroſs.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>David Kennedy,</hi> Earl of <hi>Caſſils.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>George Sinclare,</hi> Earl of <hi>Cathnes.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Cunningham,</hi> Earl of <hi>Glencarn.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Stuart,</hi> Earl of <hi>Murray.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Stuart,</hi> Earl of <hi>Athole.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Maxwel,</hi> Earl of <hi>Nithiſdale.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>George Seaton,</hi> Earl of <hi>Winton.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Alexander Levingſton,</hi> Earl of <hi>Linlithgow.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Hume,</hi> Earl of <hi>Hume.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Drummond,</hi> Earl of <hi>Perth.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Charles Seaton,</hi> Earl of <hi>Dumferlin.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Flemming,</hi> Earl of <hi>Wigton.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Lyon</hi> Earl of <hi>Kinghorn.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Hammilton,</hi> Earl of <hi>Abercorn.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Patrick Murray,</hi> Earl of <hi>Tullibardin.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Car,</hi> Earl of <hi>Roxborough.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Earskin,</hi> Earl of <hi>Kelly.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Scot,</hi> Earl of <hi>Buckleugh.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Hammilton,</hi> Earl of <hi>Hadniton.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Alexander Stuart,</hi> Earl of <hi>Galloway.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Collen Mackoenzy,</hi> Earl of <hi>Seafort.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Murray,</hi> Earl of <hi>Annandale.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Maitland,</hi> Earl of <hi>Lauderdale.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Stuart,</hi> Earl of <hi>Carrict.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Car,</hi> Earl of <hi>Lothian.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Lindſey,</hi> Earl of <hi>Lindſey.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Campble,</hi> Earl of <hi>Loudon.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>George Hay,</hi> Earl of <hi>Kinnoul.</hi>
+                     </cell>
+                  </row>
+                  <pb n="13" facs="tcp:169987:6"/>
+                  <row>
+                     <cell>
+                        <hi>William Creichton,</hi> Earl of <hi>Dunfroiz.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Douglas,</hi> Earl of <hi>Queens-Ferry.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry Alexander,</hi> Earl of <hi>Sterlin.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Bruce,</hi> Earl of <hi>Elgin.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>David Carnegy,</hi> Earl of <hi>Southesk.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Stuart,</hi> Earl of <hi>Traquare.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Car,</hi> Earl of <hi>Ancram.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Weems,</hi> Earl of <hi>Weems.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Ramſey,</hi> Earl of <hi>Dalhouſie.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Ogilvy,</hi> Earl of <hi>Finlator.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Ogilvy,</hi> Earl of <hi>Airly.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Dalzel,</hi> Earl of <hi>Carnvath.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Levingſton,</hi> Earl of <hi>Callender.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Alexander Leſley,</hi> Earl of <hi>Leven.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <list>
+               <head>VISCOUNTS.</head>
+               <item>
+                  <hi>LUcius Carey</hi> Viſcount <hi>Faulkland.</hi>
+               </item>
+               <item>
+                  <hi>Henry Conſtable,</hi> Viſcount <hi>Dunbar.</hi>
+               </item>
+               <item>
+                  <hi>Mungo Murray,</hi> Viſcount <hi>Stormouth.</hi>
+               </item>
+               <item>
+                  <hi>George Gourdon,</hi> Viſcount <hi>Aboyn.</hi>
+               </item>
+               <item>
+                  <hi>John Gourdon,</hi> Viſcount <hi>Kenmore.</hi>
+               </item>
+               <item>
+                  <hi>Strimger,</hi> Viſcount <hi>Duddop.</hi>
+               </item>
+               <item>
+                  <hi>Robert Arbuthnot,</hi> Viſcount <hi>Arbuthnot.</hi>
+               </item>
+            </list>
+            <p>
+               <table>
+                  <head>BARONS.</head>
+                  <row>
+                     <cell rows="43">The Right Honorable, </cell>
+                     <cell>
+                        <hi>IOhn Forbs,</hi> Lord <hi>Forbs.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Alexander Abernethy,</hi> Lord <hi>Salton.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Andrew Gray,</hi> Lord <hi>Gray.</hi>
+                     </cell>
+                  </row>
+                  <pb n="14" facs="tcp:169987:7"/>
+                  <row>
+                     <cell>
+                        <hi>James Stuart,</hi> Lord <hi>
+                           <g ref="char:V">Ʋ</g>chiltree.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Cathcart,</hi> Lord <hi>Cathcart.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Hay,</hi> Lord <hi>Zeſter.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Semple,</hi> Lord <hi>Semple.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Saintclare,</hi> Lord <hi>Saintclare.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Maxwel,</hi> Lord <hi>Herris.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Alexander Elphingſtone,</hi> Lord <hi>Elphingſtone.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Fraſer,</hi> Lord <hi>Lovat.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Borthvick,</hi> Lord <hi>Borthvick.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Roſs,</hi> Lord <hi>Roſs.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Boyd,</hi> Lord <hi>Boyd.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Stuart,</hi> Lord <hi>Torphichen.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Alexander Lindſey,</hi> Lord <hi>Spiny.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Patrick Leſley,</hi> Lord <hi>Lundores.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Elpingſtone,</hi> Lord <hi>Balmerinoch.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Colvil,</hi> Lord <hi>Colvil.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Stuart,</hi> Lord <hi>Blantire.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Balfoor,</hi> Lord <hi>Burleigh.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Drummond,</hi> Lord <hi>Maderty.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Elpingſtone,</hi> Lord <hi>Cuper.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Cranſtone,</hi> Lord <hi>Cranſtone.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Melvil,</hi> Lord <hi>Melvil.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Campble,</hi> Lord <hi>Kintire.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Alexander Naper,</hi> Lord <hi>Naper.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Ferdinando Fairfax,</hi> Lord <hi>Fairfax</hi> of <hi>Camrone.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edward Barret,</hi> Lord <hi>Newburgh.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Walter Aſton,</hi> Lord <hi>Aſton</hi> of <hi>Forfar.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Elizabeth Beaumont,</hi> Lady <hi>Aſhburnham,</hi> the Widow of Sir <hi>Thomas Richardſon,</hi> Baro<g ref="char:EOLhyphen"/>neſs of <hi>Cramond.</hi>
+                     </cell>
+                  </row>
+                  <pb n="15" facs="tcp:169987:7"/>
+                  <row>
+                     <cell>
+                        <hi>Donald Mackay,</hi> Lord <hi>Ray.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Oliphant,</hi> Lord <hi>Oliphant.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Johnſton,</hi> Lord <hi>Johnſton.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Forreſter,</hi> Lord <hi>Corſtorphin.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Forbs,</hi> Lord <hi>Pitſligo.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Mackelellan,</hi> Lord <hi>Kircubright.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Douglas,</hi> Lord <hi>Bulcarris.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Fraſer,</hi> Lord <hi>Fraſer.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Patrick Ruthen,</hi> Lord <hi>Etrick.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Carnegy,</hi> Lord <hi>Lowre.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Hamilton,</hi> Lord <hi>Bargeny.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Patrick Murray,</hi> Lord <hi>Balvaird.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div type="part">
+            <pb n="16" facs="tcp:169987:8"/>
+            <head>
+               <hi>The Names of all the Earles, Viſcounts, and Barons in</hi> IRELAND.</head>
+            <p>
+               <table>
+                  <head>EARLS.</head>
+                  <row>
+                     <cell rows="17">The Right Honorable, </cell>
+                     <cell>
+                        <hi>GEorge Fitz-Gerrald</hi> Earl of <hi>Kildar.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Buttler</hi> Earl of <hi>Ormond</hi> and <hi>Oſſery.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Brian O Brian,</hi> Earl of <hi>Thommond.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>
+                           <g ref="char:V">Ʋ</g>lick de Burgh,</hi> Earl of <hi>Clenrickard.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Touchet,</hi> Earl of <hi>Caſtlehaven.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Richard Boyl,</hi> Earl of <hi>Cork.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Randalph mac Donel,</hi> Earl of <hi>Antrim.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Richard Nugent,</hi> Earl of <hi>Weſtmeath.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Dillon,</hi> Earl of <hi>Roſcommon.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Bridgeway,</hi> Earl of <hi>London Derry.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>George Fielding,</hi> Earl of <hi>Deſmond.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Brabaſon,</hi> Earl of <hi>Meath.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>David Barry,</hi> Earl of <hi>Barrimore.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Richard Vaughan,</hi> Earl of <hi>Carbery.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Luke Pluncket,</hi> Earl of <hi>Fingaul.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Pope,</hi> Earl of <hi>Down.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>VISCOUNTS.</head>
+                  <row>
+                     <cell rows="41">The Right Honorable, </cell>
+                     <cell>
+                        <hi>NIcholas Preſton,</hi> Viſcount of <hi>Gormanſton.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>David Roth,</hi> Viſcount of <hi>Fermoy.</hi>
+                     </cell>
+                  </row>
+                  <pb n="17" facs="tcp:169987:8"/>
+                  <row>
+                     <cell>
+                        <hi>Richard Buttler,</hi> Viſcount <hi>Montgarret.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Villiers,</hi> Viſcount <hi>Grandiſon.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Charles Wilmot,</hi> Viſcount <hi>Wilmot</hi> of <hi>Athlone.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry Power,</hi> Viſcount <hi>Valentia.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Charles Moor,</hi> Viſcount <hi>Moor</hi> of <hi>Drogheda.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Dillon,</hi> Viſcount <hi>Dillon</hi> of <hi>Caſtillo Gal<g ref="char:EOLhyphen"/>line.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Nicholas Nettervil,</hi> Viſcount <hi>Nettervil</hi> of <hi>Dewthe.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hugh Montgomery,</hi> Viſcount <hi>Montgomery</hi> of the <hi>Ardes.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Hammilton,</hi> Viſcount <hi>Claneboy.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Adam Loftus,</hi> Viſcount <hi>Loftus</hi> of <hi>Ely.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Sapcot Beaumont,</hi> Viſcount <hi>Beaumont</hi> of <hi>Swords.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hugh mac Enos</hi> alias <hi>Magennis,</hi> Viſcount <hi>Magennis</hi> of <hi>Evagh.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Cromwel,</hi> Viſcount of <hi>Lecale.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edward Chicheſter,</hi> Viſcount <hi>Chicheſter</hi> of <hi>Ca<g ref="char:EOLhyphen"/>rickfergus.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Needham,</hi> Viſcount <hi>Kilmurry.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dominick Sartfeld,</hi> Viſcount <hi>Sarsfeld</hi> of <hi>Kil<g ref="char:EOLhyphen"/>mallock.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Sommerſet,</hi> Viſcount <hi>Sommerſet</hi> of <hi>Caſſel.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edward Conway,</hi> Viſcount of <hi>Killultagh.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Miles Burgh,</hi> Viſcount <hi>Burgh</hi> of <hi>Maye.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Roper,</hi> Viſcount of <hi>Baltinglas.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Nicholas Sanderſon,</hi> Viſcount of <hi>Caſtletown.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Lewis Boyl,</hi> Viſcount <hi>Boyl</hi> of <hi>Kinalmeaky.</hi>
+                     </cell>
+                  </row>
+                  <pb n="18" facs="tcp:169987:9"/>
+                  <row>
+                     <cell>
+                        <hi>George Chaworth,</hi> Viſcount <hi>Chaworth</hi> of <hi>Ar<g ref="char:EOLhyphen"/>magh.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Savil,</hi> Viſcount <hi>Savil.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Scudamore,</hi> Viſcount <hi>Scudamore</hi> of <hi>Sligo.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Cholmundley,</hi> Viſcount <hi>Cholmundley</hi> of <hi>Kellis.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Richard Lumley,</hi> Viſcount <hi>Lumley</hi> of <hi>Waterford.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Smith,</hi> Viſcount <hi>Strangford.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Richard Wenman,</hi> Viſcount <hi>Wenman</hi> of <hi>Tuan.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Taaff,</hi> Viſcount <hi>Taaff</hi> of <hi>Corine.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Monſon,</hi> Viſcount <hi>Monſon</hi> of <hi>Caſtle<g ref="char:EOLhyphen"/>main.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Roger Jones,</hi> Viſcount <hi>Ranelagh.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Charles mac Carty,</hi> Viſcount <hi>Carty</hi> of <hi>Muskery.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Richard Mulineux,</hi> Viſcount <hi>Mulineux</hi> of <hi>Mariburg.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Fairfax,</hi> Viſcount <hi>Fairfax</hi> of <hi>Emmeley.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Bowrk,</hi> Viſcount <hi>Bowrk</hi> of <hi>Clanmorris.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Pierce Buttler,</hi> Viſcount of <hi>Ikerine.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Fitz-William,</hi> Viſcount <hi>Fitz-William</hi> of <hi>Meriyong.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Terence Dimpſie,</hi> Viſcount <hi>Glanmaleira.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <head>BARONS.</head>
+                  <row>
+                     <cell rows="39">The Right Honorable, </cell>
+                     <cell>
+                        <hi>RIchard Birmingham,</hi> Lord <hi>Birmingham</hi> of <hi>Athenry.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Gerrald Cowrcy,</hi> Lord <hi>Cowrcy</hi> of <hi>Kingſale.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Patrick Fitz-Morris,</hi> Lord of <hi>Kerry</hi> &amp; <hi>Lixnaw.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Fleming,</hi> Lord of <hi>Salne.</hi>
+                     </cell>
+                  </row>
+                  <pb n="17" facs="tcp:169987:9"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="18" facs="tcp:169987:10"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="19" facs="tcp:169987:10"/>
+                  <row>
+                     <cell>
+                        <hi>Nicholas Saint Laurence,</hi> Lord of <hi>Houth.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Patrick Pluncket,</hi> Lord of <hi>Dunſany.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Barnwel,</hi> Lord of <hi>Trimleſton.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Power,</hi> Lord of <hi>Power</hi> and <hi>Coroghmore.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edward Buttler,</hi> Lord of <hi>Dunboin.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Barnabas mac Gilpatrick,</hi> Lord of Upper <hi>Oſſery.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Oliver Pluncket,</hi> Lord of <hi>Louth.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Murrough O Brian,</hi> Lord <hi>Inchequin.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edmund Bowrk,</hi> Lord <hi>Bowrk</hi> of <hi>Caſtleconnel.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Buttler</hi> Lord of <hi>Cahir.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Mountjoy Blunt,</hi> Baron of <hi>Mountjoy.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Charles Lambert,</hi> Baron of <hi>Cavan.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Theobald Bowrk,</hi> Lord <hi>Bowrk</hi> of <hi>Brittas.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Andrew Steward,</hi> Lord of <hi>Caſtleſteward.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James Balſoor,</hi> Baron of <hi>Glean Awley.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Foliot,</hi> Baron of <hi>Baliſhanon.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Mainard,</hi> Lord <hi>Mainard</hi> of <hi>Wicklow.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edward Gorges.</hi> Lord <hi>Gorges</hi> of <hi>Dunalk.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Digby,</hi> Baron of <hi>Geaſhal.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Harvey,</hi> Lord <hi>Harvey</hi> of <hi>Roſs.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Fitz-William,</hi> Lord <hi>Fitz-William</hi> of <hi>Liffer.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Toby Caufeld,</hi> Baron of <hi>Charlmount.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Theodoret Dockwray,</hi> Lord <hi>Dockwray</hi> of <hi>Culmore.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Gerrald Aungier,</hi> Baron of <hi>Longford.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry Blany,</hi> Baron of <hi>Monaghan.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Laurence Eſmond,</hi> Baron of <hi>Limmerick.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Dermond O Malune,</hi> Baron of <hi>Glean Mulune</hi> and <hi>Cuertry.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Edward Herbert</hi> Lord <hi>Herbert</hi> of <hi>Caſtle Iſland.</hi>
+                     </cell>
+                  </row>
+                  <pb n="20" facs="tcp:169987:11"/>
+                  <row>
+                     <cell>
+                        <hi>Coril Calvert,</hi> Baron <hi>Baltimore.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Brereton</hi> Baron <hi>Brereton</hi> of <hi>Laghlin.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Hugh Hare,</hi> Lord <hi>Colrane</hi> of <hi>Colrane.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Sherard,</hi> Lord <hi>Sherard</hi> of <hi>Letrim.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Roger Boyl,</hi> Lord <hi>Boyl,</hi> and Baron of <hi>Broghil.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Connor mac Gwyer,</hi> Baron of <hi>Iniskillin.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Francis Anſtey,</hi> Lord <hi>Mountnorris</hi> of <hi>Mount<g ref="char:EOLhyphen"/>norris.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+         </div>
+         <div type="part">
+            <head>
+               <hi>The Names of all the Dukes, Marqueſſes, Earls, Viſcounts, and Ba<g ref="char:EOLhyphen"/>rons made by the late King ſince the</hi> 4. <hi>of</hi> January, 1641.</head>
+            <p>
+               <table>
+                  <row>
+                     <cell rows="49">The Right Honorable, </cell>
+                     <cell>
+                        <hi>IAmes</hi> Earl of <hi>Ormond,</hi> created Marqueſs of <hi>Ormond.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry</hi> Earl of <hi>Worceſter,</hi> created Marqueſs of <hi>Worceſter.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Tho.</hi> Lord <hi>Faulconbridge,</hi> created Viſtount <hi>Faulconbridge.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William Aldington</hi> Eſquire, created Baron <hi>Al<g ref="char:EOLhyphen"/>dington.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Rich. Newport,</hi> created Baron <hi>Newport.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Craven</hi> Eſquire, created Baron <hi>Craven.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>John Tracy,</hi> created Baron and Viſcount <hi>Tracy.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>James,</hi> Second Son to the Kings Majeſty, cre<g ref="char:EOLhyphen"/>ated Duke of <hi>Yorke.</hi>
+                     </cell>
+                  </row>
+                  <pb n="19" facs="tcp:169987:11"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="20" facs="tcp:169987:12"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="21" facs="tcp:169987:12"/>
+                  <row>
+                     <cell>Prince <hi>Rupert,</hi> created Earl of <hi>Holderneſse,</hi> and Duke of <hi>Cumberland.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>William</hi> Earl of <hi>Newcaſtle,</hi> created Marqueſſe of <hi>Newcaſtle.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry</hi> Lord <hi>Spencer,</hi> created Earl of <hi>Sunder<g ref="char:EOLhyphen"/>land.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Rich.</hi> Earl of <hi>Carbery,</hi> created Baron <hi>Vaughan</hi> of <hi>Emlin.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry Percy</hi> created Baron <hi>Percy</hi> of <hi>Anwick.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry Wilmot,</hi> created Baron <hi>Wilnot</hi> of <hi>Adder<g ref="char:EOLhyphen"/>bury.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Tho. Leigh,</hi> created Baron of <hi>Stonely.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Chriſtopher Hatton,</hi> created Baron of <hi>Kirbe.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Ralph Hopton,</hi> created Baron <hi>Hopton</hi> of <hi>Stratton.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry Jermin,</hi> created Baron <hi>Jermin</hi> of St. <hi>Edmonds-Bury.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry Haſtings,</hi> created Baron <hi>Loughborough</hi> of <hi>Loughborough.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>John Biron,</hi> created Baron <hi>Biron</hi> of <hi>Roch<g ref="char:EOLhyphen"/>dale.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Charles Smith,</hi> created Baron <hi>Carington</hi> of <hi>Worton.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Charles</hi> Lord <hi>Carrington,</hi> created Viſcount <hi>Carrington</hi> of <hi>Barrefore.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>William Widdrington,</hi> created Baron <hi>Wid<g ref="char:EOLhyphen"/>drington</hi> of <hi>Blawkney.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Thomas Buckley,</hi> created Viſcount <hi>Buckley</hi> of <hi>Caſhels.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Humble Ward,</hi> created Baron <hi>Ward</hi> of <hi>Ber<g ref="char:EOLhyphen"/>ningham.</hi>
+                     </cell>
+                  </row>
+                  <pb n="22" facs="tcp:169987:13"/>
+                  <row>
+                     <cell>
+                        <hi>Randolph</hi> Earl of <hi>Antrim,</hi> created Marqueſſe of <hi>Antrim.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Henry</hi> of <hi>Kingſton,</hi> created Marqueſſe of <hi>Dor<g ref="char:EOLhyphen"/>ceſter.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Tho.</hi> Viſcount <hi>Savile,</hi> created Earl of <hi>Suſsex.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Francis</hi> Lord <hi>Dunſmore,</hi> created Earl of <hi>Chi<g ref="char:EOLhyphen"/>cheſter.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Tho.</hi> Earl of <hi>Arundel</hi> and <hi>Surrey,</hi> created Earl of <hi>Norfolk.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Rich.</hi> Earl of <hi>Corke,</hi> created Baron <hi>Clifford</hi> of <hi>Lansborough.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>George</hi> Lord <hi>Goring,</hi> created Earl of <hi>Norwich.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>John Culpepper,</hi> created Baron of <hi>Thoreſway.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Jacob Aſhley,</hi> created Baron <hi>Aſhley</hi> of <hi>Reading.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>John Brook,</hi> created Baron <hi>Cobham.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>John Lucas,</hi> created Baron <hi>Lucas</hi> of <hi>Shen<g ref="char:EOLhyphen"/>feild.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>John Bellaſis,</hi> created Baron <hi>Bellaſis</hi> of <hi>Worlaby.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Lewis Watſon,</hi> created Baron <hi>Rockingham.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>
+                           <g ref="char:V">Ʋ</g>lick</hi> Earl of <hi>Clanrickard,</hi> created Marqueſſe <hi>Clanrickard.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Charles</hi> Lord <hi>Aubigny,</hi> created Baron <hi>Stuart</hi> of <hi>Newberry,</hi> and Earl of <hi>Lichfield.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Francis</hi> Lord <hi>Daincourt,</hi> created Earl of <hi>Scarſedale.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert</hi> Viſcount <hi>Cholmundeley,</hi> created Earl of <hi>Leimſter.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>William Ogle,</hi> created Viſcount <hi>Ogle</hi> of <hi>Caterlough.</hi>
+                     </cell>
+                  </row>
+                  <pb n="21" facs="tcp:169987:13"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="22" facs="tcp:169987:14"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb n="23" facs="tcp:169987:14"/>
+                  <row>
+                     <cell>
+                        <hi>Robert</hi> Viſcount <hi>Cholmundeley,</hi> created Baron <hi>Cholmundeley</hi> of <hi>Witch Malbunck.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>William Brouncker</hi> of the Honor of Baron <hi>Brouncker</hi> of <hi>Newcaſtle,</hi> and Viſcount <hi>Brounker</hi> of <hi>Lyons.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Francis Hawley,</hi> created Baron <hi>Hawley</hi> of <hi>Duncamour.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Sir <hi>Henry Bard,</hi> created Baron <hi>Bard</hi> of <hi>Drom<g ref="char:EOLhyphen"/>bey,</hi> and Viſcount <hi>Bellemont.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Charles Gerrard,</hi> created Baron <hi>Gerrard</hi> of <hi>Branden.</hi>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>
+                        <hi>Robert Sutton,</hi> created Baron <hi>Lexington</hi> of <hi>A<g ref="char:EOLhyphen"/>ram.</hi>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:169987:15"/>
+            <pb n="23" facs="tcp:169987:15"/>
+            <gap reason="duplicate" resp="#OXF" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
